@@ -6,4 +6,5 @@ Observação:
 -Thiago Kato:  
 -Vitor Hugo Martinez: https://github.com/Venator2345  
 -Gabriel Meiado: https://github.com/Meiado  
+3.Algumas das soluções podem ter sido feitas com eles.
 PS: Agradeço a todos os companheiros que fizeram parte disso. Todos são pessoas incríveis.
