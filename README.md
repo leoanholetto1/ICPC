@@ -4,6 +4,6 @@ Observação:
 -Jessica Perdomo: https://github.com/jessicaperdomo  
 -José Vitor: https://github.com/TheJoseph-Dev  
 -Thiago Kato:  
--Vitor Hugo Martinez:  
+-Vitor Hugo Martinez: https://github.com/Venator2345  
 -Gabriel Meiado: https://github.com/Meiado  
 PS: Agradeço a todos os companheiros que fizeram parte disso. Todos são pessoas incríveis.
